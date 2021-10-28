@@ -1,4 +1,4 @@
-public class Vacation {
+public class Vacation{
     private int totalmoney;
     private int totaldays;
     private String typeofvaca;
