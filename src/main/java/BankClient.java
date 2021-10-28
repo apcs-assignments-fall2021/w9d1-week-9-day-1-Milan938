@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class BankClient {
 
+
     public static void main(String[] args) {
 //        Scanner scan = new Scanner(System.in);
 //        System.out.println("What is your preferred name?");
